@@ -1,0 +1,1 @@
+# ert_permafrost_catalog
